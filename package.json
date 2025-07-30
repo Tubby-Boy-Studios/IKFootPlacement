@@ -1,8 +1,8 @@
 {
-  "name": "com.plonkabartosz.ikfootplacement",
+  "name": "com.Tubby-Boy-Studios.LifelikeMotion-ikfootplacement",
   "version": "1.0.0",
-  "displayName": "IKFootPlacement",
-  "description": "IKFootPlacement\n\nFree IK foot placement script for Unity.",
+  "displayName": "LifelikeMotion-ikfootplacement",
+  "description": "Lifelike Motion package using IKFootPlacement\n\nFree IK foot placement script for Unity.",
   "unity": "2020.2",
   "unityRelease": "0f1",
   "documentationUrl": "https://github.com/plonkabartosz/IKFootPlacement?tab=readme-ov-file#readme",
@@ -11,8 +11,22 @@
     "com.unity.animation.rigging": "1.1.1"
   },
   "author": {
-    "name": "Bartosz Plonka",
-    "url": "https://github.com/plonkabartosz/IKFootPlacement"
+    "name": "Lifelike Motion",
+    "url": "https://assetstore.unity.com/packages/tools/animation/ikfootplacement-free-ik-script-315249"
   },
+  "contributors" : [
+  {
+    "name" : "Bartosz Plonkam",
+    "url" : "https://github.com/plonkabartosz/IKFootPlacement"
+  },  
+  {
+    "name" : "Sylvia Crisp",
+  }
+  {
+    "name" : "Michael Olson",
+    "url" : "https://github.com/Foundit3923"
+  }
+ ]
+
   "type": "tool"
 }
