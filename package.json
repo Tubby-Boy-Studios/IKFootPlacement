@@ -12,19 +12,19 @@
   },
   "author": {
     "name": "Lifelike Motion",
-    "url": "https://assetstore.unity.com/packages/tools/animation/ikfootplacement-free-ik-script-315249"
+    "url": "https://assetstore.unity.com/packages/tools/animation/ikfootplacement-free-ik-script-315249",
   },
   "contributors" : [
   {
     "name" : "Bartosz Plonkam",
-    "url" : "https://github.com/plonkabartosz/IKFootPlacement"
+    "url" : "https://github.com/plonkabartosz/IKFootPlacement",
   },  
   {
     "name" : "Sylvia Crisp",
-  }
+  },
   {
     "name" : "Michael Olson",
-    "url" : "https://github.com/Foundit3923"
+    "url" : "https://github.com/Foundit3923",
   }
  ],
   "type": "tool"
