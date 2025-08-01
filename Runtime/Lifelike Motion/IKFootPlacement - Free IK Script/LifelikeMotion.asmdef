@@ -1,5 +1,5 @@
 {
-    "name": "com.tubby-boy-studios.playerpackage",
+    "name": "com.tubby-boy-studios.lifelikemotion-ikfootplacement",
     "rootNamespace": "",
     "references": ["Unity.Animation.Rigging"],
     "includePlatforms": [],
