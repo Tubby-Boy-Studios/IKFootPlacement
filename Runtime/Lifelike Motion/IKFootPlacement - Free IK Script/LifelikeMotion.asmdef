@@ -1,8 +1,8 @@
 {
     "name": "com.tubby-boy-studios.lifelikemotion-ikfootplacement",
     "rootNamespace": "",
-    "references": ["Unity.Animation.Rigging", "Unity.UnityEditor"],
-    "includePlatforms": [],
+    "references": ["Unity.Animation.Rigging"],
+    "includePlatforms": ["Editor"],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
