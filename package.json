@@ -1,8 +1,8 @@
 {
-  "name": "com.plonkabartosz.ikfootplacement",
+  "name": "com.tubby-boy-studios.Ikfootplacement",
   "version": "1.0.0",
-  "displayName": "IKFootPlacement",
-  "description": "IKFootPlacement\n\nFree IK foot placement script for Unity.",
+  "displayName": "Ikfootplacement",
+  "description": "IKFootPlacement.",
   "unity": "2020.2",
   "unityRelease": "0f1",
   "documentationUrl": "https://github.com/plonkabartosz/IKFootPlacement?tab=readme-ov-file#readme",
@@ -11,8 +11,17 @@
     "com.unity.animation.rigging": "1.1.1"
   },
   "author": {
-    "name": "Bartosz Plonka",
-    "url": "https://github.com/plonkabartosz/IKFootPlacement"
+    "name" : "Bartosz Plonkam",
+    "url" : "https://github.com/plonkabartosz/IKFootPlacement"
   },
+  "contributors" : [
+  {
+    "name" : "Sylvia Crisp"
+  },
+  {
+    "name" : "Michael Olson",
+    "url" : "https://github.com/Foundit3923"
+  }
+ ],
   "type": "tool"
 }

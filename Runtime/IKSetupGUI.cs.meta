@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e398ccae45b9eaa4599fac4459513dc5
+guid: 232065b851a9a7a4d83baaeb1078175e
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
@@ -9,3 +9,10 @@ MonoImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 315249
+  packageName: IKFootPlacement - Free IK Script
+  packageVersion: 1.0
+  assetPath: Assets/Lifelike Motion/IKFootPlacement - Free IK Script/Tool/Misc/IKSetupGUI.cs
+  uploadId: 764232
