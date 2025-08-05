@@ -1,5 +1,3 @@
-namespace LifelikeMotion.IKFootPlacement
-{
     using System.Collections.Generic;
     using UnityEngine;
     using UnityEngine.Animations;
@@ -499,4 +497,3 @@ namespace LifelikeMotion.IKFootPlacement
             gameObject.GetComponent<IKFootPlacement>().enabled = false;
         }
     }
-}
