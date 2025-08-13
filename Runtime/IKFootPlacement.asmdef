@@ -2,7 +2,7 @@
     "name": "com.tubby-boy-studios.Ikfootplacement",
     "rootNamespace": "",
     "references": ["Unity.Animation.Rigging"],
-    "includePlatforms": ["Editor"],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
