@@ -1,6 +1,6 @@
 {
     "name": "com.tubby-boy-studios.Ikfootplacement",
-    "rootNamespace": "",
+    "rootNamespace": "com.tubby-boy-studios.Ikfootplacement",
     "references": ["Unity.Animation.Rigging"],
     "includePlatforms": [],
     "excludePlatforms": [],

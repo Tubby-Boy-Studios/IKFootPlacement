@@ -1,0 +1,15 @@
+{
+  "name": "com.tubby-boy-studios.Ikfootplacement.Editor",
+  "rootNamespace": "com.tubby-boy-studios.Ikfootplacement.Editor",
+  "references": [
+    "GUID:bb70bfbc78b06c741a80e62eed2b8ff4",
+    "GUID:49818357e697641afb75d2f8acaf1861"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "noEngineReferences": false
+}
